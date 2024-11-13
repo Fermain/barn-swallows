@@ -323,4 +323,8 @@ footer {
   .zapper, .note-container .note, .clipboard {
     transform: unset;
   }
+
+  .clipboard-container {
+    margin-top: 20%;
+  }
 }
