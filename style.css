@@ -316,4 +316,8 @@ footer {
   .swallow {
     transform: translate(-4rem, -3rem);
   }
+
+  .zapper, .note-container .note, .clipboard {
+    transform: unset;
+  }
 }
