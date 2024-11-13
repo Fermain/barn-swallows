@@ -80,6 +80,7 @@ a {
 
 .swallow {
   transform: translate(-2rem, -3rem);
+  transition: transform 200ms ease-in-out;
 }
 
 .logo {
@@ -138,6 +139,7 @@ a {
   position: relative;
   transform: rotate(5deg);
   filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2));
+  transition: transform 200ms ease-in-out;
 }
 
 .clipboard-content {
@@ -193,6 +195,7 @@ table td {
   max-width: 300px;
   position: relative;
   transform: rotate(-7deg);
+  transition: transform 200ms ease-in-out;
 }
 
 .note-content {
